@@ -1,0 +1,17 @@
+{
+    "projectName": "demo1",
+    "username": "sagar.dev@cloudlendinginc.com",
+    "id": "87c8cd90-2cef-11e8-8ab5-63b886c18e45",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://na50.salesforce.com",
+    "workspace": "C:\\Users\\GOOGLE 100\\Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
